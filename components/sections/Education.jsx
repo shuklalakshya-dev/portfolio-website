@@ -34,7 +34,7 @@ const Education = () => {
   const educationData = [
     {
       level: "High School",
-      institution: "City Montessori School",
+      institution: "Greenfields School",
       year: "2019-2020",
       marks: "89.9%",
       description: "ICSE Board",

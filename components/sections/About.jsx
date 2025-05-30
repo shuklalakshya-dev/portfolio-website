@@ -72,7 +72,7 @@ const About = () => {
               
               {/* Responsive paragraph text sizes */}
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4 leading-relaxed">
-               Hi, I'm Lakshya Badsaaahhh – a passionate Full Stack MERN Developer with a knack for building real-time, scalable, and user-centric web applications. I specialize in creating seamless digital experiences using MongoDB, Express.js, React.js, and Node.js, along with Tailwind CSS for modern, responsive UI design.
+               Hi, I'm Lakshya Shukla – a passionate Full Stack MERN Developer with a knack for building real-time, scalable, and user-centric web applications. I specialize in creating seamless digital experiences using MongoDB, Express.js, React.js, and Node.js, along with Tailwind CSS for modern, responsive UI design.
               </p>
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4 leading-relaxed">
                 I recently built Nexora – Real-Time Application Builder, a powerful platform that provides an SDK to integrate real-time features like chat, video calling, and media sharing into any web app. This project helped me dive deep into WebSockets, media APIs, and cloud infrastructure, giving me hands-on experience with the kind of tech that powers today's most interactive platforms.
